@@ -12,6 +12,7 @@ namespace LogicalPrograms
             {
                 reverseString += originalString[i];
             }
+			//written by pramod
             Console.Write($"Reverse String is : {reverseString} ");
             Console.ReadLine();
         }      
